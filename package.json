@@ -109,7 +109,7 @@
     "tslint-stylish": "2.1.0-beta",
     "typescript": "~1.8.10",
     "typings": "1.0.4",
-    "vinyl-buffer": "1.0.0",
+    "vinyl-buffer": "1.0.1",
     "vinyl-source-stream": "1.1.0",
     "walk": "2.3.9",
     "yargs": "4.2.0"
